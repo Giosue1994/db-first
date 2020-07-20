@@ -1,0 +1,27 @@
+CONCESSIONARIA USATO:
+
+ID veicolo: NUMERO - INT - NOTNULL - AUTO_INCREMENT - UNIQUE
+Marca: STRINGA - VARCHAR(50) - NOTNULL - 
+Modello: STRINGA - VARCHAR(50) -
+Posti: NUMERO - TINYINT -
+Porte: NUMERO - TINYINT -
+Anno inizio produzione: NUMERO - YEAR -
+Anno fine produzione: NUMERO - YEAR -
+Prezzo: NUMERO - FLOAT(8,2) - NOTNULL - 
+Potenza CV: NUMERO - TINYINT - 
+Alimentazione: STRINGA - VARCHAR(20) -
+Cambio: STRINGA - VARCHAR(20) -
+Lunghezza cm: NUMERO - TINYINT -
+Larghezza cm: NUMERO - TINYINT -
+Altezza cm: NUMERO - TINYINT -
+Peso kg: NUMERO - TINYINT -
+Serbatoio l: NUMERO - TINYINT -
+Velocità massima km/h: NUMERO - SMALL
+Aria condizionata: BOOLEANO - TINYINT -
+Navigatore: BOOLEANO - TINYINT -
+ABS: BOOLEANO - TINYINT -
+Cerchi in lega: BOOLEANO - TINYINT -
+Vetri oscurati: BOOLEANO -  TINYINT -
+Tetto panoramico: BOOLEANO - TINYINT -
+Sedili in pelle: BOOLEANO - TINYINT -
+Telecamera: BOOLEANO - TINYINT -
